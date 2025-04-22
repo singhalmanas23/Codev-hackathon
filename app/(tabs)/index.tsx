@@ -1,9 +1,9 @@
-import { Text, View, StyleSheet, Platform, Image } from "react-native";
+import { Text, View} from "react-native";
 
 export default function HomeScreen() {
   return (
     <View style={{justifyContent: "center", alignItems: "center"}}>
-      <Text>Hello World 👋 🌍!</Text>
+      <Text>Hello Manas 👋 🌍!</Text>
     </View>
   );
 }
